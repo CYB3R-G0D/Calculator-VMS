@@ -1,0 +1,12 @@
+FUN add(x, y)
+DISP(x + y)
+END
+FUN subtract(x, y)
+DISP(x - y)
+END
+FUN multiply(x, y)
+DISP(x * y)
+END
+FUN divide(x, y)
+DISP(x / y)
+END
